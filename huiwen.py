@@ -22,4 +22,3 @@ for j in range(chlen):
                 end=k
 print("最长回文子串：",ch[start:end+1])
 print("最长回文子串的长度：",maxcount)
-
