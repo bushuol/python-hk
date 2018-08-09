@@ -66,4 +66,3 @@ with open('豆瓣影评.txt','w',encoding='utf-8') as f:
 
 
 
-
